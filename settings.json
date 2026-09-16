@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": Takoulisstath.aternos.me:17638,
+    "ip": "Takoulisstath.aternos.me:17638",
     "port": 17638,
     "version": "",
     "try-creative": false
